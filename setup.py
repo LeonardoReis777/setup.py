@@ -2,7 +2,7 @@ import sys
 from cx_Freeze import setup, Executable
 
 # Arquivo principal Python que deseja converter em executável
-main_script = 'oxossibackup.py'
+main_script = 'filename.py'
 
 # Configuração do executável
 executables = [Executable(main_script)]
